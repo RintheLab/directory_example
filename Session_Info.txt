@@ -1,0 +1,40 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Spanish_Mexico.1252  LC_CTYPE=Spanish_Mexico.1252   
+[3] LC_MONETARY=Spanish_Mexico.1252 LC_NUMERIC=C                   
+[5] LC_TIME=Spanish_Mexico.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+[1] agricolae_1.3-5 dplyr_1.0.7     ggplot2_3.3.5   readr_2.1.1    
+[5] usethis_2.1.5  
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.1.1 purrr_0.3.4      lattice_0.20-45 
+ [4] haven_2.4.3      labelled_2.9.0   colorspace_2.0-2
+ [7] vctrs_0.3.8      generics_0.1.1   miniUI_0.1.1.1  
+[10] htmltools_0.5.2  AlgDesign_1.2.0  utf8_1.2.2      
+[13] rlang_0.4.12     pillar_1.6.4     later_1.3.0     
+[16] glue_1.6.0       withr_2.4.3      DBI_1.1.2       
+[19] bit64_4.0.5      lifecycle_1.0.1  questionr_0.7.5 
+[22] munsell_0.5.0    combinat_0.0-8   gtable_0.3.0    
+[25] labeling_0.4.2   forcats_0.5.1    tzdb_0.2.0      
+[28] fastmap_1.1.0    httpuv_1.6.4     parallel_4.1.2  
+[31] fansi_0.5.0      highr_0.9        Rcpp_1.0.7      
+[34] xtable_1.8-4     scales_1.1.1     promises_1.2.0.1
+[37] vroom_1.5.7      mime_0.12        farver_2.1.0    
+[40] fs_1.5.2         bit_4.0.4        klaR_0.6-15     
+[43] hms_1.1.1        digest_0.6.29    shiny_1.7.1     
+[46] grid_4.1.2       cli_3.1.0        tools_4.1.2     
+[49] magrittr_2.0.1   tibble_3.1.6     cluster_2.1.2   
+[52] crayon_1.4.2     pkgconfig_2.0.3  ellipsis_0.3.2  
+[55] MASS_7.3-54      assertthat_0.2.1 rstudioapi_0.13 
+[58] R6_2.5.1         nlme_3.1-153     compiler_4.1.2  
