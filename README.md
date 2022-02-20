@@ -13,5 +13,4 @@ Juan Pablo Carreón Hidalgo 🤓
  
 
 
-This work is licensed under a
-[GNU General Public License v3.0][https://www.fsf.org/].
+This work is licensed under a GNU General Public License v3.0
